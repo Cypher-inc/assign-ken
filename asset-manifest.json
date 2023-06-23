@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/assign-ken/static/css/main.8d297498.css",
+    "main.js": "/assign-ken/static/js/main.04a0b40e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/assign-ken/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero image.png": "/assign-ken/static/media/hero image.2e3fdf0f6af18b95bd77.png",
+    "static/media/boehringer-ingelheim-international white.png": "/assign-ken/static/media/boehringer-ingelheim-international white.d7b9c85c94483ee803e2.png",
+    "static/media/Astrazeneca white.png": "/assign-ken/static/media/Astrazeneca white.f0b5110693c94d7e4430.png",
+    "static/media/Incyte white.png": "/assign-ken/static/media/Incyte white.c9b4c376bfc9983dfc0d.png",
+    "static/media/SalesCompensation_EasiestToDoBusinessWith_Enterprise_EaseOfDoingBusinessWith copy.png": "/assign-ken/static/media/SalesCompensation_EasiestToDoBusinessWith_Enterprise_EaseOfDoingBusinessWith copy.c1f88faee368d665a6e6.png",
+    "static/media/Copy of Artboard 1full logo.png": "/assign-ken/static/media/Copy of Artboard 1full logo.56849f0cda94b86205e8.png",
+    "static/media/SalesCompensation_HighPerformer_HighPerformer copy.png": "/assign-ken/static/media/SalesCompensation_HighPerformer_HighPerformer copy.b75eac623429837c68aa.png",
+    "static/media/Lupin white.png": "/assign-ken/static/media/Lupin white.7df6d1b28f61574342c2.png",
+    "static/media/Swigg white.png": "/assign-ken/static/media/Swigg white.f9578030af92d8e9cde0.png",
+    "static/media/Lonza white.png": "/assign-ken/static/media/Lonza white.74ff15977efa615f5763.png",
+    "static/media/Gartner rating home page.png": "/assign-ken/static/media/Gartner rating home page.468a450c8f63c78cdad9.png",
+    "static/media/G2 rating home page.png": "/assign-ken/static/media/G2 rating home page.cadfba228a994c482eea.png",
+    "index.html": "/assign-ken/index.html",
+    "main.8d297498.css.map": "/assign-ken/static/css/main.8d297498.css.map",
+    "main.04a0b40e.js.map": "/assign-ken/static/js/main.04a0b40e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/assign-ken/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d297498.css",
+    "static/js/main.04a0b40e.js"
+  ]
+}
